@@ -85,6 +85,7 @@ set(SWIFT_BENCH_MODULES
     single-source/Hash
     single-source/HashQuadratic
     single-source/Histogram
+    single-source/IndexSetTests
     single-source/Integrate
     single-source/IterateData
     single-source/Join
